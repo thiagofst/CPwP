@@ -1,5 +1,7 @@
 # Computational Physics with Python
 
+Just practicing...
+Some of them taken from this vast land called Internet
 
 	Three-body problem for Alpha Centauri System
 	
