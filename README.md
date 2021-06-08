@@ -1,4 +1,4 @@
-# Haphazard codes in Python (Computational Physics)
+# Computational Physics with Python
 
 
 	Three-body problem for Alpha Centauri System
